@@ -35,7 +35,7 @@ I focus on **formatting, structure, visual presentation, and technical productio
 
 ## 📘 KANNAN Mathematics Series — Basic 2 Mathematics
 
-**Educational Mathematics Textbook | 200+ pages**
+**Educational Mathematics Textbook | 700+ pages**
 
 A complete mathematics textbook production project developed for primary-level learners.
 
@@ -247,7 +247,7 @@ More projects will be added progressively.
 
 ### GitHub
 
-🔗 [Explore my GitHub projects](https://github.com/nsole_samson)
+🔗 [Explore my GitHub projects](https://github.com/samsonyamontchensolegit)
 
 ---
 
