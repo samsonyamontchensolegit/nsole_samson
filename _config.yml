@@ -1,6 +1,25 @@
-title: "N'solé YAMONTCHE"
-logo: img/samson_profil.png
+title: "N'solé Samson YAMONTCHE"
+name: "N'solé Samson YAMONTCHE"
 description: "LaTeX Book Designer & Typesetter | Mathematics, STEM & Educational Publishing"
-show_downloads: false
-theme: jekyll-theme-minimal
-lang: en
+
+logo: "/img/samson_profil.png"
+
+url: "https://nsole_samson.github.io"
+baseurl: "/latex-textbook-portfolio"
+
+repository: "nsole_samson/latex-textbook-portfolio"
+
+minimal_mistakes_skin: "air"
+
+theme: minimal-mistakes-jekyll
+
+locale: "en-US"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "N'solé Samson YAMONTCHE"
+  avatar: "/img/samson_profil.png"
+  bio: "LaTeX Book Designer & Typesetter specializing in Mathematics, STEM and Educational Publishing."
+  location: "Benin"
