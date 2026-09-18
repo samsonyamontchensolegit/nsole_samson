@@ -11,8 +11,6 @@ repository: "nsole_samson/latex-textbook-portfolio"
 
 minimal_mistakes_skin: "air"
 
-theme: minimal-mistakes-jekyll
-
 locale: "en-US"
 
 plugins:
